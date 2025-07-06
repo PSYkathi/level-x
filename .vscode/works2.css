@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+h1{
+    color:green;
+    font-family: "Press Start 2P", "consolas", "sans-serif";
+    border-bottom: dotted;
+
+}
+p{
+    color: brown;
+    font-family: "Doto","consolas","sans-serif";
+    border-style: outset;
+    border-color: gold;
+    border-width: 5px;
+    border-radius: 10px;
+    padding: 20px;
+}
